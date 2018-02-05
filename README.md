@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pour tester l'app: 
 
-Things you may want to cover:
+Le log in fonctionne avec les attributs suivants: (name: "laura", email: "laura@example.com", password: "foobar", password_confirmation: "foobar")
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+En revanche la partie sign up ne fonctionne pas (il ne parvient pas à trouver la variable user)
